@@ -1,2 +1,2 @@
-print("Hello world!")
+print("Good morning!")
 <script scr="./index.js"></script>
